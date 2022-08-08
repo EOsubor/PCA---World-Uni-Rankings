@@ -1,4 +1,4 @@
-# Library of Functions for the OpenClassrooms Multivariate Exploratory Data Analysis Course
+# Library of useful plottting Functions downloaded from OpenClassrooms
 
 import matplotlib.pyplot as plt
 from matplotlib.collections import LineCollection
